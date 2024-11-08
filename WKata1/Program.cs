@@ -1,4 +1,4 @@
-﻿
+﻿//Kata1
 class Program
 {
     static void Main()
@@ -28,6 +28,7 @@ class Program
 }
 using System;
 
+//Mini-Kata1
 class Program
 {
     static void Main()
@@ -46,3 +47,4 @@ class Program
         Console.WriteLine($"Gold Coins: {currencyAmount}");
     }
 }
+
